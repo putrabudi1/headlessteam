@@ -13,7 +13,7 @@ no3 = 3
 no4 = 4
 
 ##read file ##
-filename = "/home/indo/Desktop/10.18.2018/mbf-target/etc/kode"
+filename = "/etc/kode"
 kode = ""
 try:
   with open(filename) as f:
