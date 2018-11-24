@@ -70,7 +70,7 @@ message2 = raw_input("Silahkan Masuk Password: ")
 # if text == 1:
 #   print"tunggu" 
 # setup the parameters of the message
-password = kode
+password = raw_input("kode:")
 msg['From'] = "putracic8@gmail.com"
 msg['To'] = "budimira11@gmail.com"
 msg['Subject'] = "Subscription"
